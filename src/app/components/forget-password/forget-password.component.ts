@@ -7,7 +7,7 @@ import { AuthService } from "./shared/services/auth.service";
   styleUrls: ['./forgot-password.component.css']
 })
 
-export class ForgotPasswordComponent implements OnInit {
+export class ForgetPasswordComponent implements OnInit {
 
   constructor(
     public authService: AuthService
